@@ -11,7 +11,7 @@ SCA:
 SAST:
   language: "java"
   work_dir : "/var/lib/jenkins/workspace/JavaVulnerableLab/"
-  target: JavaVulnerableLab/jar_files/
+  target: "commons-codec-1.9.jar"
   # SAST
 
 # DAST:
