@@ -1,11 +1,11 @@
 Auth:
   project_token: "5e1f93dc-0e45-4cc4-bf66-709c70f4dadf"
   customer_token: "4b36ce06-05a1-43f9-a0e9-0c98a26594fa" #devtoken
-SCA:
-  language: "java" 
+# SCA:
+#   language: "java" 
 SAST:
   language: "java"
-  work_dir : "/var/lib/jenkins/workspace/JavaVulnerableLab/jar_files"
+  work_dir : "/var/lib/jenkins/workspace/JavaVulnerableLab/jar_files/"
   target: "commons-codec-1.9.jar"
   # SAST
 
