@@ -10,6 +10,7 @@ SCA:
 
 SAST:
   language: "java"
+  work_dir : "/var/lib/jenkins/workspace/JavaVulnerableLab/"
   target: JavaVulnerableLab/jar_files/
   # SAST
 
