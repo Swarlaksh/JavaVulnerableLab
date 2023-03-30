@@ -6,7 +6,7 @@ Auth:
 SAST:
   language: "java"
   work_dir : "/var/lib/jenkins/workspace/JavaVulnerableLab/jar_files/"
-  target: "commons-codec-1.9.jar"
+  target: "httpclient-4.5.2.jar"
   # SAST
 
 # DAST:
