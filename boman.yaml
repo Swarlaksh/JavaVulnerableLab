@@ -6,7 +6,7 @@ Auth:
 SAST:
   language: "java"
   work_dir : "/var/lib/jenkins/workspace/devsecops/jar_files/"
-  target: "httpcore-4.4.4.jar"
+  target: "log4j-1.2.17.jar"
   # SAST
 
 # DAST:
