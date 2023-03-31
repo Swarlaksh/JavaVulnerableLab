@@ -6,7 +6,7 @@ Auth:
 SAST:
   language: "java"
   work_dir : "/var/lib/jenkins/workspace/devsecops/jar_files/"
-  target: "log4j-1.2.17.jar"
+  target: "slf4j-api-1.7.23.jar"
   # SAST
 
 # DAST:
