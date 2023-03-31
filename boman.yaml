@@ -6,7 +6,7 @@ Auth:
 SAST:
   language: "java"
   work_dir : "/var/lib/jenkins/workspace/devsecops/jar_files/"
-  target: "fastjson-1.2.24.jar"
+  target: "guava-21.0.jar"
   # SAST
 
 # DAST:
