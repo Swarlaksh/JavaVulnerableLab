@@ -6,7 +6,7 @@ Auth:
 SAST:
   language: "java"
   work_dir : "/var/lib/jenkins/workspace/devsecops/jar_files/"
-  target: "commons-logging-1.2.jar"
+  target: "facebook-messenger-1.0.0.jar"
   # SAST
 
 # DAST:
